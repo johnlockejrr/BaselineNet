@@ -1,0 +1,13 @@
+torch>=2.0.0
+torchvision>=0.15.0
+numpy>=1.19.2
+Pillow>=8.0.0
+opencv-python>=4.5.0
+albumentations>=1.0.0
+tensorboard>=2.5.0
+tqdm>=4.60.0
+scipy>=1.7.0
+matplotlib>=3.10.0
+scikit-image>=0.25.0
+shapely>=2.1.0
+opencv-contrib-python>=4.11.0.86

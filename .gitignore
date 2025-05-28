@@ -1,0 +1,13 @@
+__pycache__/
+*.pth
+*.pyc
+sam_41_mss/
+out/*
+runs/*
+TRAIN_MD5SUM
+*.bak
+*_backup
+HIST
+checkpoints*
+log.lr.0001.txt
+train.log
